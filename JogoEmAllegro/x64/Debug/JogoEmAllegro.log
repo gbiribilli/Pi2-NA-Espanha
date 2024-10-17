@@ -1,0 +1,1 @@
+﻿F:\vscode\repos\jogo\Sprites\JogoEmAllegro.vcxproj(160,5): error : Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é ..\packages\AllegroDeps.1.14.0\build\native\AllegroDeps.targets.
