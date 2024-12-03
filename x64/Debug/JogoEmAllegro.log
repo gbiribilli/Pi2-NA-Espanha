@@ -1,6 +1,0 @@
-﻿  JogoEmAllegro.c
-F:\vscode\repos\jogo\allegrosuperfinal\JogoEmAllegro\JogoEmAllegro.c(355,51): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
-F:\vscode\repos\jogo\allegrosuperfinal\JogoEmAllegro\JogoEmAllegro.c(650,32): warning C4047: '=': 'int' difere em níveis de indireção de 'ALLEGRO_BITMAP *'
-F:\vscode\repos\jogo\allegrosuperfinal\JogoEmAllegro\JogoEmAllegro.c(380,1): warning C4715: 'Bomberman': nem todos os caminhos de controle retornam um valor
-F:\vscode\repos\jogo\allegrosuperfinal\JogoEmAllegro\JogoEmAllegro.c(223,1): warning C4717: 'jogo_dinossauro': recursivo em todos os caminhos de controle, função causará estouro na pilha em tempo de execução
-  JogoEmAllegro.vcxproj -> F:\vscode\repos\jogo\allegrosuperfinal\x64\Debug\JogoEmAllegro.exe
