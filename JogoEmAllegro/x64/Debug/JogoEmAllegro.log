@@ -1,0 +1,3 @@
+﻿  JogoEmAllegro.c
+F:\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(163,10): warning C4101: 'texto': variável local não referenciada
+  JogoEmAllegro.vcxproj -> F:\repos\JogoEmAllegro\x64\Debug\JogoEmAllegro.exe
